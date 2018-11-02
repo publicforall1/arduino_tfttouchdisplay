@@ -24,4 +24,4 @@ h：the width of the square
 
 color：the color of the square
 
-**SRC:** [http://wiki.microduinoinc.com/Tft.fillRect()](./http://wiki.microduinoinc.com/Tft.fillRect())
+**SRC:** [http://wiki.microduinoinc.com/Tft.fillRect()](http://wiki.microduinoinc.com/Tft.fillRect())
